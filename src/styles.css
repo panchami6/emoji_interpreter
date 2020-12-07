@@ -1,0 +1,33 @@
+body {
+  background-color: #f4f2d8;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  max-width: 600px;
+  margin: auto;
+}
+
+.heading {
+  border-radius: 0.5rem;
+  font-size: 40px;
+}
+
+.input {
+  width: 30%;
+  height: 6vh;
+  border: 1px solid black;
+  border-radius: 0.5rem;
+  margin: 1rem;
+}
+
+.gestures {
+  font-size: 3rem;
+  padding: 0.5rem 0.5rem;
+  cursor: pointer;
+}
+
+.App h2 {
+  color: red;
+  padding: 1rem;
+}
